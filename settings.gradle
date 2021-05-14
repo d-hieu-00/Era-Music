@@ -1,0 +1,2 @@
+rootProject.name = "Era Music"
+include ':app'

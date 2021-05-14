@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Era Music</string>
+    <string name="name_song">Name song</string>
+    <string name="name_artist">Name artist</string>
+    <string name="category">Category</string>
+    <string name="search">Search</string>
+    <string name="all_music">All music</string>
+    <string name="playlist">Playlist</string>
+    <string name="load_from_storage">Load from storage</string>
+    <string name="control_media">Control media</string>
+    <string name="album">Album</string>
+    <string name="name_playlist">Name playlist</string>
+    <string name="login">Login</string>
+    <string name="add_playlist">Add playlist</string>
+</resources>
